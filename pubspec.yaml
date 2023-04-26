@@ -31,7 +31,7 @@ dependencies:
   flutter_sms_inbox: ^1.0.2
   permission_handler: ^10.2.0
   call_log: ^4.0.0
-  fast_contacts: ^3.0.3
+  flutter_sms: ^2.3.3
   flutter:
     sdk: flutter
 

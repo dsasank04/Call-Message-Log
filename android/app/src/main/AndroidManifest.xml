@@ -3,7 +3,9 @@
     <uses-permission android:name="android.permission.READ_CALL_LOG" />
     <uses-permission android:name="android.permission.SEND_SMS"/>
     <uses-permission android:name="android.permission.READ_CONTACTS" />
-   <application
+    <uses-permission android:name="android.permission.READ_SMS"/>
+
+    <application
         android:label="week1"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
