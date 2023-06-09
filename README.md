@@ -39,11 +39,6 @@ This will launch the app on your connected device.
 
 7. Explore the Call Logs and SMS Inbox screens in the app.
 
-## Screenshots
-
-![Call Logs Screen](screenshots/call_logs_screen.png)
-![SMS Inbox Screen](screenshots/sms_inbox_screen.png)
-
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more information.
