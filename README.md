@@ -1,16 +1,53 @@
-# week1
+# Call Logs & SMS Inbox App
 
-A new Flutter project.
+This Flutter application displays the call logs and SMS inbox of the user's device. It utilizes the `call_log`, `flutter_sms_inbox`, and `permission_handler` packages to retrieve the call logs and SMS messages.
+
+The app consists of two screens: Call Logs and SMS Inbox. The user can switch between these screens using a bottom navigation bar.
+
+## Features
+
+- Display the call logs with caller information and call details.
+- Display the SMS inbox with sender information and message content.
+- Pull to refresh the SMS inbox to fetch the latest messages.
+- Request permission to access SMS data if not granted.
+
+## Dependencies
+
+The following packages are used in this application:
+
+- `call_log: ^5.0.1` - Retrieves call logs from the device.
+- `flutter_sms_inbox: ^2.1.0` - Retrieves SMS messages from the device.
+- `permission_handler: ^13.2.0` - Handles runtime permissions for accessing SMS data.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run the application, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1. Make sure you have Flutter installed on your machine. If not, refer to the Flutter documentation for installation instructions.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. Clone this repository to your local machine: git clone https://github.com/your-username/your-repo.git
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. Navigate to the project directory
+
+4. Retrieve the dependencies by running the following command: flutter pub get
+
+5. Connect your Android or iOS device to your development machine.
+
+6. Run the app using the following command: flutter run
+
+This will launch the app on your connected device.
+
+7. Explore the Call Logs and SMS Inbox screens in the app.
+
+## Screenshots
+
+![Call Logs Screen](screenshots/call_logs_screen.png)
+![SMS Inbox Screen](screenshots/sms_inbox_screen.png)
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for more information.
+
+Feel free to customize the README according to your needs and include any additional sections or information as desired.
+
+
