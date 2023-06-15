@@ -39,10 +39,7 @@ This will launch the app on your connected device.
 
 7. Explore the Call Logs and SMS Inbox screens in the app.
 
-## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
 
-Feel free to customize the README according to your needs and include any additional sections or information as desired.
 
 
