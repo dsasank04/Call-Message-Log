@@ -25,7 +25,7 @@ To run the application, follow these steps:
 
 1. Make sure you have Flutter installed on your machine. If not, refer to the Flutter documentation for installation instructions.
 
-2. Clone this repository to your local machine: git clone https://github.com/your-username/your-repo.git
+2. Clone this repository to your local machine: git clone https://github.com/dsasank04/Call-Message-Log.git
 
 3. Navigate to the project directory
 
